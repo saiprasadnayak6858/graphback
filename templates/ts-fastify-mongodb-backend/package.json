@@ -23,7 +23,7 @@
     "graphql-config": "3.0.3",
     "graphql-subscriptions": "1.1.0",
     "graphql-tag": "2.11.0",
-    "mercurius": "6.0.0",
+    "mercurius": "6.2.0",
     "mongodb": "3.6.2"
   },
   "devDependencies": {
